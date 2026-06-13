@@ -12,4 +12,4 @@ A fully responsive Udemy clone homepage showcasing online courses, recommendatio
 
 🔗 Future Enhancements JavaScript-based course search User authentication pages Shopping cart functionality Course detail pages Dark mode support Backend integration
 
-Project Link - 
+Project Link - https://ru942.github.io/Udemy_Clone_website/
